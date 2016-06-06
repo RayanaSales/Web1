@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="por">
+  <head>
+    <meta content="be7786a1-ca13-4bf6-a186-3327f264c24f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>O Crime do Padre Amaro</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uadedb3a0-7c85-4d2c-a2c8-1f068b751413" playOrder="0">
+      <navLabel>
+        <text>PREFÁCIO DA SEGUNDA EDIÇÃO .........................................................................</text>
+      </navLabel>
+      <content src="index_split_000.html#p2"/>
+    </navPoint>
+    <navPoint id="uab939c83-db3d-4315-8e28-74d77b47581f" playOrder="1">
+      <navLabel>
+        <text>PREFÁCIO DA TERCEIRA EDIÇÃO.........................................................................</text>
+      </navLabel>
+      <content src="index_split_000.html#p3"/>
+    </navPoint>
+    <navPoint id="ud90b6a06-c7c2-42e2-b821-7f705fbb9eb0" playOrder="2">
+      <navLabel>
+        <text>I ..................................................................................................</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint id="ua41803eb-8e1f-4c1a-9b5c-461da90fa548" playOrder="3">
+      <navLabel>
+        <text>II..................................................................................................</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint id="u73b27511-3043-44e7-9d67-a68cb0762e06" playOrder="4">
+      <navLabel>
+        <text>III ................................................................................................</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="ue286d044-10c6-42b9-87d2-edcbd03df2f1" playOrder="5">
+      <navLabel>
+        <text>IV .................................................................................................</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint id="u70e9686d-4196-4908-8c6d-f8dbd8579afd" playOrder="6">
+      <navLabel>
+        <text>V ..................................................................................................</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="u9fa31209-fa6c-435b-a39a-5f3e8b122b7c" playOrder="7">
+      <navLabel>
+        <text>VI .................................................................................................</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint id="u0b101936-3f5c-47f2-b941-5dfbaddd57a4" playOrder="8">
+      <navLabel>
+        <text>VII.................................................................................................</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="u411a28c6-a80c-4879-afeb-89b236f125ca" playOrder="9">
+      <navLabel>
+        <text>VIII ...............................................................................................</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint id="u4c4cc8bf-92a8-48e9-af53-f05147d57f6d" playOrder="10">
+      <navLabel>
+        <text>IX .................................................................................................</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint id="u76c21992-156c-406e-a48d-6568cc1867c6" playOrder="11">
+      <navLabel>
+        <text>X ..................................................................................................</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint id="u7c0947eb-5715-476f-a1c4-5b9f1f811aa2" playOrder="12">
+      <navLabel>
+        <text>XI .................................................................................................</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint id="u0df9aa2f-2a4a-4fcd-afcc-7ced4b144791" playOrder="13">
+      <navLabel>
+        <text>XII.................................................................................................</text>
+      </navLabel>
+      <content src="index_split_012.html"/>
+    </navPoint>
+    <navPoint id="ud7e6df4b-d2e9-4502-9d62-7d642c5d50c0" playOrder="14">
+      <navLabel>
+        <text>XIII ...............................................................................................</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+    </navPoint>
+    <navPoint id="u7907e3eb-ecc2-4884-a923-4f55a27e61ac" playOrder="15">
+      <navLabel>
+        <text>XIV ................................................................................................</text>
+      </navLabel>
+      <content src="index_split_014.html"/>
+    </navPoint>
+    <navPoint id="u6ce247f1-40a0-4428-9341-ad325f077c67" playOrder="16">
+      <navLabel>
+        <text>XV..................................................................................................</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+    </navPoint>
+    <navPoint id="u046c024f-5575-4cd3-aa7e-223965d35072" playOrder="17">
+      <navLabel>
+        <text>XVI ................................................................................................</text>
+      </navLabel>
+      <content src="index_split_016.html"/>
+    </navPoint>
+    <navPoint id="u826d4b47-0d09-4e85-8c6b-aaab32be985e" playOrder="18">
+      <navLabel>
+        <text>XVII................................................................................................</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+    </navPoint>
+    <navPoint id="ud36d477c-6b5e-4ebf-bf0b-d961fadc1652" playOrder="19">
+      <navLabel>
+        <text>XVIII...............................................................................................</text>
+      </navLabel>
+      <content src="index_split_018.html"/>
+    </navPoint>
+    <navPoint id="ucd46fc48-11d7-44fa-8b50-1d1eababc17e" playOrder="20">
+      <navLabel>
+        <text>XIX ................................................................................................</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+    </navPoint>
+    <navPoint id="uf7246f2b-f8fd-4623-be4f-2e58a421cacc" playOrder="21">
+      <navLabel>
+        <text>XX..................................................................................................</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+    </navPoint>
+    <navPoint id="uee610f11-a135-4ab5-9d0d-a1434806609a" playOrder="22">
+      <navLabel>
+        <text>XXI ................................................................................................</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+    </navPoint>
+    <navPoint id="ub6f8f6bf-85c0-49db-8ad5-37dc5835d42e" playOrder="23">
+      <navLabel>
+        <text>XXII................................................................................................</text>
+      </navLabel>
+      <content src="index_split_022.html"/>
+    </navPoint>
+    <navPoint id="u484290e0-5a36-4c27-85ca-2874695be765" playOrder="24">
+      <navLabel>
+        <text>XXIII...............................................................................................</text>
+      </navLabel>
+      <content src="index_split_023.html"/>
+    </navPoint>
+    <navPoint id="u67d81f13-ca4d-42ec-840c-51d93e9d0b71" playOrder="25">
+      <navLabel>
+        <text>XXIV ...............................................................................................</text>
+      </navLabel>
+      <content src="index_split_024.html"/>
+    </navPoint>
+    <navPoint id="u88fcb3d8-f54b-4ad9-a388-22a40b61cdd2" playOrder="26">
+      <navLabel>
+        <text>XXV.................................................................................................</text>
+      </navLabel>
+      <content src="index_split_025.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

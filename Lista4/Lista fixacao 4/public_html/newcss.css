@@ -1,0 +1,67 @@
+body div
+{
+    margin-left: 35%;
+    width: 500px;
+    height: 600px;
+    //border: 1px solid black;
+    position: relative;
+}
+
+body div div:nth-child(1)
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-top-left-radius:10em;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+body div div:nth-child(2)
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-top-right-radius:10em;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+
+body div div:nth-child(3)
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    border-bottom-right-radius:10em;
+    margin-top: 125px;
+    margin-left: 280px;
+}
+
+body div div:nth-child(4)
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-bottom-left-radius:10em;
+    margin-top: 125px;
+}
+
+body div div:active
+{
+    background-color: black;
+}
+
+form input[value=Jogar]
+{
+    margin-top: 300px;
+    margin-left: 250px;
+}
+
+form label
+{
+    margin-left: 230px;
+}

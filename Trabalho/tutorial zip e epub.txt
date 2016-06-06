@@ -1,0 +1,19 @@
+CONVERSÃO DE FORMATOS (ZIP PARA EPUB):
+
+1-Faz um zip do projeto.
+	1.1-abre o Izip
+	1.2-File -> new archive -> dá um nome ao zip e escolhe onde vai salvar (ex: lala na area de trabalho).
+	1.3-Procura o mimetype no projeto -> seleciona -> clica em change compression -> coloca a compressiona level no modo store -> adiciona ao zip criado(lala) o mimetype. 
+	1.4-Volta no Izip -> add -> seleciona todos os arquivos do projeto, exceto o mimetype e a pasta META-INF -> coloca a compressiona level no modo normal -> adiciona ao zip criado(lala).
+	1.5-Fecha o Izip.
+	1.6-Vai na pasta META-INF -> botão direito -> enviar para arquivo(lala) 
+
+(caso seu modo de exibição "ocultar as extensões dos tipos de arquivo conhecidos" esteja selecionada, vá para o passo 2 )
+2-Abre uma pasta qualquer no win8 -> exibir -> opções -> alterar opções de pasta e pesquisa -> modo de exibição -> desmarca a opção: "ocultar as extensões dos tipos de arquivo conhecidos" -> ok.
+
+3-Vai no projeto zipado(lala), e muda a extensão para epub.
+
+4-Vai no site http://validator.idpf.org/ ou digita no google "validator epub", e valida o arquivo.
+
+OBS: por padrão, o jzip gera um link de divulgação, e adiciona ao seu arquivo zip. Esse link gera um warning no validador. Então para tirar esse link, abre o jzip, clica em view, configuration, e desmarca 
+a opção "adicionar link aos meus zips". Depois de feito isso, o jzip, fica enchendo o saco para que você ajude a divulgar, então clique em "não me peça mais isso" e não aceite divulgar o link.

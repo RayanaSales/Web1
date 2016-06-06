@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br" lang="pt-br">
+
+   	 <head>
+			 <title>Title</title>
+   		 <meta charset="utf-8"/>
+   	 </head>
+
+   	 <body>   		 
+   			 <table border="1">
+
+   				 <tr>
+
+   					 <td>Célula 1</td>
+   					 <td rowspan="2">Célula 2</td>
+   					 <td>Célula 3</td>
+   				 </tr>
+
+   				 <tr>
+   					 <td rowspan="2">Célula 4</td>
+   					 <td>Célula 5</td>
+   					 
+   				 </tr>
+
+   				 <tr>
+   					 <td colspan="2">Célula 6</td>
+   				 </tr>
+   			 </table>
+   	 </body>
+    </html>

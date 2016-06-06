@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xml:lang="br" lang="br">
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="newcss.css" rel="stylesheet"/>
+             
+    </head>
+    <body>
+        <h1>Dados pessoais</h1>
+        <p>Preencha seus dados abaixo</p>
+        
+        <div>
+        
+        <form action="submete.php">
+            
+           
+            <label for="nome">Nome completo</label>
+            <input type="text" name="nome" id="nome" />
+            <br>
+            
+            <label for="email">Email</label>
+            <input type="text" name="email" id="email">
+            <br>
+            
+            <label for="mensagem">Mensagem</label>
+           
+            <textarea cols="50" rows="10" id="mensagem">                
+            </textarea>
+            <br>
+            
+            <label>Cor favorita</label><br>
+                 
+            <input type="radio" name="cor" id="cor" value="Preto" checked/>
+            <label for="cor">Preto</label>
+            <br/>
+            
+            <input type="radio" name="cor" id="2" value="Branco"/>
+            <label for="2">Branco</label>
+            <br>
+            
+            <input type="radio" name="cor" id="3" value="vermelho"/>
+            <label for="3">Vermelho</label>
+            <br/>
+            
+            <label>Hobbies</label><br>
+                    
+            <input type="checkbox" value="Cinema" id="Cinema"/>
+            <label for="Cinema">Cinema</label>
+            <br/>
+            
+            <input type="checkbox" value="Esportes" id="Esportes"/>
+            <label for="Esportes">Esportes</label>
+            <br/>
+            
+            <input type="checkbox" value="Literatura" id="Literatura"/>
+            <label for="Literatura">Literatura</label>
+            <br/>
+            
+            <label for="periodo">Período</label>
+            <input type=number name="periodo" id="periodo"/>
+            <br/>
+            
+            <input type="submit" value="Submeter" />
+            
+            
+        </form>
+            
+       </div>
+        
+    </body>
+</html>

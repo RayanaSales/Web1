@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br" lang="pt-br">
+
+       <head>
+          <title>Title</title>
+          <meta charset="utf-8"/>
+       </head>
+
+       <body>         
+             <table border="1">
+                <tr>
+                   <td headers="linhaVazia" scope="row"></td>
+                   <th id="primeira Linha Vazia" scope="col" colspan="2">Latão</th>
+                   <th id="aco" scope="col" colspan="2">Aço</th>
+                </tr>
+
+                <tr>
+                   <th id="segunda linha vazia" scope="row"></th>
+                   <th id="parafusos" scope="col">Parafuso</th>
+                   <th id="porcas" scope="col">Porcas</th>
+                   <th id="parafusos2" scope="col">Parafuso</th>
+                   <th id="porcas2" scope="col">Porcas</th>
+                </tr>
+
+                <tr>
+                  <th id="10cm" scope="row" colspan="5">10cm</th>
+                </tr>
+
+                <tr>
+                   <th id="atacado" scope="row">Atacado</th>
+                   <td headers="1,00" scope="col">1,00</td>
+                   <td headers="1,25" scope="col">1,25</td>
+                   <td headers="1,20" scope="col">1,20</td>
+                   <td headers="1,80" scope="col">1,00</td>
+                </tr>
+
+                <tr>
+                    <th id="varejo" scope="row">Varejo</th>
+                    <td headers="2,00" scope="col">2,00</td>
+                    <td headers="3,00" scope="col">3,00</td>
+                    <td headers="1,89" scope="col">1,80</td>
+                    <td headers="1,60" scope="col">1,60</td>
+                </tr>
+
+                <tr>
+                  <th id="20 cm " scope="row" colspan="5">20 cm</th>
+                </tr>
+
+                <tr>
+                  <th id="atacadoo" scope="row">Atacado</th>
+                  <td headers="1,20" scope="col">1,20</td>
+                  <td headers="1,30" scope="col">1,30</td>
+                  <td headers="1,00" scope="col">1,00</td>
+                  <td headers="0,80" scope="col">0,80</td>
+                </tr>
+
+                <tr>
+                  <th id="varejoo" scope="row">Varejo</th>
+                  <td headers="1,60" scope="col">1,60</td>
+                  <td headers="2,00" scope="col">2,00</td>
+                  <td headers="2,00" scope="col">2,00</td>
+                  <td headers="1,50" scope="col">1,50</td>
+                </tr>
+             </table>
+       </body>
+    </html>

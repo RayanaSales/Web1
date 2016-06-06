@@ -1,0 +1,32 @@
+.esconde
+{
+    visibility: hidden;
+}
+
+table, td
+{
+    border: 1px solid black;
+}
+
+table
+{
+    margin-left: 35%;
+    width: 600px;
+    height: 600px;
+}
+
+#meio
+{
+   background-color: white; 
+}
+
+.pino
+{
+    background-image: url("pino.jpg");
+    background-size: contain;
+}
+
+table tr:nth-child(4) td:nth-child(4)
+{
+    background-image: none;
+}

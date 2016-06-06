@@ -1,0 +1,42 @@
+@page
+{
+    size: A5;
+}
+
+p
+{
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5em;
+}
+
+h2 + p
+{
+    text-indent: 0em;
+}
+
+h2 + p:first-letter
+{
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2:before {
+    content: "Capítulo ";
+}
+
+h2
+{
+    counter-increment: capitulo;
+    page-break-before: always;
+}
+
+h2::before{
+    content: "Capitulo " counter(capitulo) ": ";
+}
+
+p{
+    orphans: 4;
+    widows: 4;
+}

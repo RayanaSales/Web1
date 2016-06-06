@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br" lang="pt-br">
+
+   	 <head>
+
+			 <title>Título</title>
+
+   	 </head>
+
+   	 <body>
+
+			 <p>Lorem ipsum dolor sit amet,
+   			 <em>
+   				 consectetur adipiscing elit. Nullam a lorem nisl, in malesuada sem. Nullam posuere massa turpis.
+   			 </em>
+   		 </p>
+
+   		 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+   		 Nullam a lorem nisl, in malesuada sem. Nullam posuere massa
+
+   		 turpis.</p>
+
+
+   	 </body>
+
+    </html>
+
+	 	
+

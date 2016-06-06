@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br" lang="pt-br">
+
+       		<head>
+       			<meta charset="UTF-8"/>
+				<title>Q3 letra c</title>
+			</head>
+
+			<body>
+
+				<form action="script.php" method="post">
+
+                    <label for="colegio">Tipo:</label>
+						<select multiple name="Alunos" id="colegio">
+							<option value="Aluno" title="alunos" >Aluno</option>
+							<option value="Professor" title="professor">Professor</option>
+							<option title="tecnico Administrativo" value="Técnico administrativo" selected>Técnico administrativo</option>
+							<option title="terceirizado" value="Terceirizado" >Terceirizado</option>
+						</select><br>
+
+						<br>
+
+						<input type="button" value="Botão que não é de submissão"/>
+				</form>
+			</body>
+    </html>

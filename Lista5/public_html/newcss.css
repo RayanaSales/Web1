@@ -1,0 +1,12 @@
+.carta
+{
+    width: 100px;
+    height: 100px;    
+    background-size: contain;    
+}
+
+.fundoCarta
+{
+    background-image: url("tijolo.jpg");
+}
+

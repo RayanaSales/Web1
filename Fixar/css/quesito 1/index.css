@@ -1,0 +1,51 @@
+p
+{
+    color:blue;
+}
+
+p > em
+{
+    color: greenyellow;
+}
+
+em[lang]
+{
+    color: yellow;
+}
+
+p > strong
+{
+    color: red;
+}
+
+a:link
+{
+    color: orange;
+}
+
+a:visited
+{
+    color: gray;
+}
+
+ol::after/*duvida*/
+{
+    color: saddlebrown !important;
+}
+
+.conteudo-topo /*duvida*/
+{
+    font-size: 110px;
+}
+
+li:first-child
+{
+    font-weight: bold;
+}
+
+li:last-child a/*duvida*/
+{
+    text-decoration: line-through;
+}
+
+

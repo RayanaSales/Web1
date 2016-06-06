@@ -1,0 +1,46 @@
+div
+{
+    margin-left: 100px;
+}
+            
+p{
+color: gray;
+}
+
+label textArea::before
+{
+    padding-bottom: 30px;
+}
+
+input{
+    margin-left: 10em;
+}
+
+input[type=number]
+{
+    width: 30px;
+    margin-left: 6em;
+}
+
+textarea
+{
+    margin-left: 5em;
+}
+
+form label:first-child + input{
+    margin-left: 10em;
+}
+
+form:nth-child(5)
+{
+    margin-left: 8em;
+}
+
+input[type=text]
+{
+    margin-right: 20em;
+}
+
+
+            
+           

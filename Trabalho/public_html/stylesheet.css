@@ -1,0 +1,14 @@
+h2
+{
+    counter-increment: capitulo;
+    page-break-before: always;
+}
+
+h2::before{
+    content: "Capitulo " counter(capitulo) ": ";
+}
+
+p{
+   orphans: 4;
+    widows: 4;
+}

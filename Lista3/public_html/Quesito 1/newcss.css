@@ -1,0 +1,11 @@
+body div{
+    top: 200px;
+    left: 200px;
+    
+    width: 16px;
+    height: 16px;
+    
+    position: relative;
+    
+    background-color: red;
+}
